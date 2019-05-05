@@ -81,7 +81,7 @@ class Paginator
         $pages = ceil($results->num_rows / $this->limit);
 
         //return empty string is not data from the query
-        if (count($results) <= $this->limit)
+        if ($results->num_rows <= $this->limit)
             return '';
 
         $prevLI = '';

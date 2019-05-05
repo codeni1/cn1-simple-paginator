@@ -16,11 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Paginator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3241">
-              <caret line="177" column="9" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="9" />
+            <state relative-caret-position="514">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
               <folding>
                 <element signature="e#6#50#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -63,6 +62,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>count</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +123,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,18 +169,27 @@
       <workItem from="1556697232600" duration="770000" />
       <workItem from="1556716494058" duration="8000" />
       <workItem from="1556717858527" duration="608000" />
-      <workItem from="1556797394098" duration="4330000" />
+      <workItem from="1556797394098" duration="4562000" />
+      <workItem from="1557068830833" duration="151000" />
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1556803741298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556803741298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39860000" />
+    <option name="totallyTimeSpent" value="40243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -199,6 +212,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -323,29 +340,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/paginator.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PaginatorDBAL.php">
+    <entry file="file://$PROJECT_DIR$/PaginatorDBAL.php" />
+    <entry file="file://$PROJECT_DIR$/Paginator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="33" />
+        <state relative-caret-position="514">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
           <folding>
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="e#6#50#0#PHP" expanded="true" />
             <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
@@ -362,27 +366,21 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paginator.php">
+    <entry file="file://$PROJECT_DIR$/conn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3241">
-          <caret line="177" column="9" selection-start-line="177" selection-start-column="9" selection-end-line="177" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#50#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
